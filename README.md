@@ -18,4 +18,4 @@ It can also perform cryptographic hashes leveraging the [CryptoJS](https://githu
 * SHA-2 (SHA-256, SHA-512)
 * SHA-3
 
-Additionally I created as part of the original submission can be found at: https://youtu.be/gh1LhD_goqQ
+Additionally, a video demonstration that I created as part of the original submission can be found at: https://youtu.be/gh1LhD_goqQ
