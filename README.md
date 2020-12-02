@@ -3,7 +3,7 @@
 This was my final project when completing CS50x back in 2014. 
 It is a simple website that allows a user to perform encryption of text using symmetric secret key ciphers.
 
-The website can be accessed at https://amrishparmar.github.io/CS50x-CryptoPlus/
+The website can be accessed at https://amrishparmar.github.io/CryptoPlus-CS50x
 
 Supported forms of encryption and decryption include:
 * Atbash
